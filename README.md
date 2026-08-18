@@ -1,63 +1,72 @@
-# Franco Limón
+FRANCO LIMÓN
+Ingeniero de Software Full-Stack
+Monterrey, México · +52 81 1745 0317 · francoenriquee5@gmail.com
+linkedin.com/in/francolimon · github.com/tu-usuario
 
-**Full-Stack Software Engineer at [Cuiker](https://cuiker.com) · Monterrey, MX**
+PERFIL PROFESIONAL
+Ingeniero Full-Stack con 5+ años desarrollando aplicaciones web y móviles con Ruby on
+Rails, React, TypeScript y React Native. He llevado productos SaaS B2B de cero a
+producción para clientes activos, con ingresos recurrentes — automatizando procesos de
+negocio con IA aplicada y reduciendo costos de infraestructura en la nube.
 
-I build and ship production SaaS for Latin-American small and mid-sized businesses: legal case management, medical practice software, restaurant POS, fiscal/billing platforms, and internal tools.
+EXPERIENCIA PROFESIONAL
 
----
+Desarrollador Full-Stack | Cuiker, Monterrey, México                     2024 – Presente
+- Desarrollo y mantengo varios productos SaaS en producción: Despachos (despachos.app),
+  Facturación SAT (facturación CFDI), Comandas Cloud (POS para restaurantes), Clinara
+  (clinara.mx, expedientes médicos) y Photoswipe (app iOS, en revisión para App Store).
+- Construí plataformas SaaS multitenant con Rails 8 (API) y React 18 + TypeScript:
+  integré Google Document AI y la API de OpenAI para automatizar documentos y
+  recordatorios por WhatsApp (Despachos), y desarrollé facturación electrónica CFDI 4.0
+  con timbrado vía PAC y certificados CSD (Facturación SAT).
+- Migré servicios autoalojados (Linux/Nginx) a infraestructura administrada (AWS,
+  Railway) y optimicé la infraestructura AWS (EC2, RDS) de una app .NET, reduciendo el
+  costo mensual de ~$280 a ~$150 USD.
 
-## Tech I work with daily
+Ingeniero de Software Full-Stack | Global Hitss (Banorte), Monterrey, MX    2022 – 2024
+- Desarrollé y ajusté funcionalidad en aplicaciones bancarias enterprise con Kony
+  Visualizer (JavaScript), siguiendo especificaciones funcionales documentadas.
+- Desarrollé servicios backend en .NET con arquitectura en capas (negocio y servicios)
+  para los sistemas core del banco.
+- Consumí y depuré servicios SOAP con payloads XML, resolviendo errores de
+  serialización que afectaban las consultas a sistemas core.
+- Escribí stored procedures y consultas en Oracle y SQL Server para la operación
+  bancaria.
+- Hice onboarding técnico a los nuevos integrantes del equipo y presenté avances y
+  demos a directores de Banorte.
+- Manejé el flujo de ramas en equipo con SourceTree (feature branches), resolviendo
+  conflictos de merge.
 
-![Ruby on Rails](https://img.shields.io/badge/Rails_8-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript_strict-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![React Native](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+Desarrollador Web (Ruby on Rails) | Wingoo, Monterrey, México               2019 – 2020
+- Construí desde cero una bolsa de trabajo para developers con Ruby on Rails (MVC):
+  modelé el dominio relacional (vacantes, empresas y candidatos) y la lógica de
+  publicación y postulación.
+- Implementé UI responsive con SASS y Bootstrap y prototipos de interfaz con Adobe XD;
+  autenticación con Devise y hashing de contraseñas con BCrypt.
 
-| Layer    | Tools                                                            |
-| -------- | ---------------------------------------------------------------- |
-| Backend  | Rails 8 (API mode), PostgreSQL, SolidQueue, Action Cable, Pundit |
-| Frontend | React 18, strict TypeScript, Vite, TailwindCSS, TanStack Query   |
-| Mobile   | React Native (Expo)                                              |
-| Infra    | Railway (backend), Vercel (frontend), Cloudflare R2 (storage)    |
-| Database | PostgreSQL (Neon for prod, local for dev)                        |
-| Testing  | RSpec (Rails), Vitest (React)                                    |
-| Tooling  | RuboCop, ESLint, Conventional Commits, GitHub Actions            |
+Desarrollador Freelance e Instructor | Superprof / Independiente, Remoto    2018 – 2019
+- Instructor de programación (Rails, JS, C#) para 44+ alumnos internacionales
+  (Australia, China, Japón, entre otros), con calificación 5/5 acompañando proyectos
+  reales.
 
-## Currently shipping at Cuiker
+FORMACIÓN Y CERTIFICACIONES
+Ingeniería Industrial y de Sistemas (IIS) — Universidad Regiomontana (U-ERRE)
+Monterrey, México. 2021 – 2026 (en curso)
+Certificado de Competencias — Data Scientist. Tecnológico de Monterrey
+(The Learning Gate), 230 horas, 2026
 
-| Product               | Domain                                  | Stack                           |
-| --------------------- | --------------------------------------- | ------------------------------- |
-| **Defendo Laboral**   | Legal case management for labor lawyers | Rails 8 + React                 |
-| **Clinara**           | NOM-004 medical practice software       | Rails 8 + React                 |
-| **Comandas Cloud**    | Table-orders POS for restaurants        | Turborepo (Rails + React admin) |
-| **Cuiker ERP / CRM**  | Sales, inventory and operations         | Rails 8 + React/Vite monorepo   |
-| **Facturas SAT**      | CFDI 4.0 stamping for Mexican invoicing | Rails 8 + React                 |
-| **Arveta House POS**  | POS for restaurants and hospitality     | Turborepo (Rails + 2× React)    |
-| **Aviation Examiner** | Pilot examination prep                  | Vite/React + serverless API     |
+COMPETENCIAS TÉCNICAS
+Lenguajes: Ruby, JavaScript, TypeScript, C# (.NET), HTML/CSS
+Backend: Ruby on Rails (API y monolito), Action Cable, SolidQueue, .NET (arquitectura
+en capas), APIs REST, SOAP
+Bases de Datos: PostgreSQL, Oracle, SQL Server, stored procedures
+DevOps y Cloud: AWS (S3, EC2, RDS, optimización de costos), Docker, GitHub Actions
+(CI/CD), Linux, Nginx, Railway, Vercel
+IA Aplicada: Google Document AI, OpenAI API
+Frontend: React, React Native (Expo), Vite, TailwindCSS, SASS, Bootstrap, Hotwire
+(Turbo/Stimulus)
+Testing e Integraciones: RSpec, Jest/Vitest (FactoryBot, Faker), WhatsApp Business API,
+Stripe, Google OAuth, Prawn
 
-Most repositories are private (client work). Happy to walk through the architecture and code in an interview.
-
-## How I work
-
-- **One change, one commit** — [Conventional Commits](https://www.conventionalcommits.org/) for everything.
-- **Strict TypeScript** on the frontend; **SOLID** and small services on the backend.
-- **Two-branch model** — `develop` → `production`, CI on both. No `main`.
-- **Tests for business logic**; lint, type-check and build green before merge.
-- **Spanish UI** for end users; **English** code, docs and commit messages.
-- **Local-first** dev; clean Vercel + Railway deploys with health checks.
-
-## Reach out
-
-- Email — `francoenriquee5@gmail.com`
-- LinkedIn — [linkedin.com/in/francolimon](https://linkedin.com/in/francolimon)
-- Location — Monterrey, Nuevo León, Mexico
-
-<sub>Open to full-time opportunities — remote or Monterrey. Strongest in product, fintech and healthcare SaaS for Spanish-speaking markets.</sub>
+IDIOMAS
+Español — Nativo | Inglés — Fluido/Bilingüe (C1 — estudios en Canadá)
