@@ -1,8 +1,8 @@
 # Franco Limón
 
-**Senior full-stack engineer · Founder of [Cuiker Consulting](https://cuiker.com) · Monterrey, MX**
+**Full-Stack Software Engineer at [Cuiker](https://cuiker.com) · Monterrey, MX**
 
-I design and ship production SaaS for Latin-American small and mid-sized businesses: legal case management, medical practice software, restaurant POS, fiscal/billing platforms, and internal tools.
+I build and ship production SaaS for Latin-American small and mid-sized businesses: legal case management, medical practice software, restaurant POS, fiscal/billing platforms, and internal tools.
 
 ---
 
@@ -43,7 +43,7 @@ I design and ship production SaaS for Latin-American small and mid-sized busines
 | **Arveta House POS**  | POS for restaurants and hospitality     | Turborepo (Rails + 2× React)    |
 | **Aviation Examiner** | Pilot examination prep                  | Vite/React + serverless API     |
 
-Most repositories are private (client work). Reach out if you'd like a walkthrough.
+Most repositories are private (client work). Happy to walk through the architecture and code in an interview.
 
 ## How I work
 
@@ -56,8 +56,8 @@ Most repositories are private (client work). Reach out if you'd like a walkthrou
 
 ## Reach out
 
-- Website — [cuiker.com](https://cuiker.com)
 - Email — `francoenriquee5@gmail.com`
+- LinkedIn — [linkedin.com/in/francolimon](https://linkedin.com/in/francolimon)
 - Location — Monterrey, Nuevo León, Mexico
 
-<sub>Open to selective high-impact projects. I respond fastest to product, fintech and healthcare SaaS in Spanish-speaking markets.</sub>
+<sub>Open to full-time opportunities — remote or Monterrey. Strongest in product, fintech and healthcare SaaS for Spanish-speaking markets.</sub>
